@@ -1,0 +1,12 @@
+node_modules
+.git
+.env
+.env.*
+!.env.example
+!.env.production.example
+prisma/*.db
+prisma/snapshot-*.db
+data
+backups
+ctt-server*.log
+npm-debug.log*
